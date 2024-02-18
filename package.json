@@ -1,8 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Naufal Fajri",
+	"description": "A project that does something awesome",
+	"keywords": ["menyala","sekali","abangkuh","freecodecamp"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.18.2"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
